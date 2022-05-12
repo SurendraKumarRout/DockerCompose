@@ -3,7 +3,7 @@
 version: '2'
 
 services:
-  db:
+  db2:
     image: mongo
   
   db:
